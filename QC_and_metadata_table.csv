@@ -1,0 +1,139 @@
+Sample ID,Number of contigs,N50 value,Number of total reads,% of reads Unclassified,% of reads Escherichia.coli,Continet of isolation,Country of isolation,Host spieces,DataBase,Date of isolation,Ampicillin,Cefotaxime,Ceftazidime,Cefuroxime,Cephalothin,Ciprofloxacin,Gentamycin,Tobramycin,Trimethoprim
+24742_1#104,63,8,725124,3.61,49.18,North America,Mexico,Perognathus penicillatus,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#106,48,5,708924,1.52,85.93,North America,Mexico,Sigmodon mascotensis,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#107,75,9,715058,2.65,46.65,North America,Mexico,Tapirus bairdii ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#110,37,6,979446,2.82,46.26,North America,Mexico,Peromyscus sp.,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#111,106,8,790477,1.29,52.17,South America,Venezuela,Tapirus terrestris ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#113,28,5,831730,2.08,86.89,North America,Mexico,Philander opossum,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#114,61,9,826941,2.1,48.67,North America,Mexico,Trichechus manatus ,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#118,130,18,860886,3.49,53.88,North America,Mexico,Procyon lotor,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#119,61,9,924284,2.12,48.6,North America,Mexico,Trichechus manatus ,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#22,63,8,877591,3.95,49.05,North America,Mexico,Perognathus penicillatus,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#23,41,6,870195,1.38,87.76,North America,Mexico,Tapirus bairdii ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#24,46,5,715368,1.53,83,North America,Mexico,Urocyon cinereoargenteus,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#27,43,8,753267,0.83,49.25,North America,Mexico,Canis familiaris,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#28,89,7,831999,3.54,82.38,North America,Mexico,Peromyscus boylii,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#29,4771,29,634725,37.63,11.75,North America,Mexico,Empidonax sp. ,Souza,1999,R,S,R,S,S,S,S,S,R
+24742_1#295,96,13,781120,3.69,49.14,North America,Mexico,Romerolagus diazi,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#298,105,10,839399,6.13,45.35,North America,Mexico,Liomys pictus ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#299,72,5,803059,2.47,77.06,North America,Mexico,Ovis aries ,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#30,35,4,776944,3.48,51.45,North America,Mexico,Tapirus bairdii ,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#305,129,15,488248,1.26,55.51,NF,NF,Dasypus sp. ,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#306,188,21,724516,2.47,48.58,North America,Mexico,Odocoeileus virginianus ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#307,59,9,698478,1.88,48.54,North America,Mexico,Homo sapiens,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#308,36,5,655461,3.54,77.75,North America,Mexico,Odocoeileus virginianus ,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#309,139,10,841094,1.08,69.24,North America,Mexico,Canis latrans,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#31,59,7,721759,1.06,48.56,North America,Mexico,Urocyon cinereoargenteus,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#310,61,4,734792,4.92,51.69,North America,Mexico,Marmosa camescens ,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#311,80,7,746188,3.61,49.62,North America,Mexico,Leptonycteris nivalis,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#312,37,6,750930,1.03,49.47,North America,Mexico,Oryctolagus cuniculus ,Souza,1999,R,S,R,S,S,S,S,S,S
+24742_1#313,72,7,654617,3.01,82.96,North America,Mexico,Leptonycteris nivalis ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#314,59,9,804500,1.26,48.75,North America,Mexico,Nasua narica ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#315,23,3,694735,1.51,88.61,North America,Mexico,Ovis aries ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#316,64,7,706324,0.96,47.99,North America,Mexico,Nasua narica ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#317,90,11,920821,2.25,49.79,North America,Mexico,Liomys pictus,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#34,27,4,830053,1.31,88.7,North America,Mexico,Peromyscus boylii,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#35,60,8,797221,2.51,49.75,North America,Mexico,Sigmodon mascotensis,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#36,33,4,848793,3.62,51.33,North America,Mexico,Tapirus bairdii ,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#37,42,6,830760,1.31,49.75,North America,Mexico,Urocyon cinereoargenteus,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#41,45,7,772595,3,46.28,North America,Mexico,Peromyscus sp.,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#42,60,10,764539,2.96,47.69,North America,Mexico,Sula nebouxi ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#43,111,9,748454,1.72,51.46,South America,Venezuela,Tapirus terrestris ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#44,47,4,798332,5.5,44.34,North America,Mexico,Bos taurus,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#48,52,5,849550,0.79,89.79,North America,Mexico,Dasypus sp. ,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#49,64,9,779963,2.3,46.48,North America,Mexico,Liomys pictus ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#50,217,14,719057,2.08,52.73,NF,NF,Sus scrofa domesticus,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#51,53,8,851242,0.84,47.91,North America,Mexico,Tayassu tajacu ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#59,65,8,886140,2.92,47.76,North America,Mexico,Basileuterus belli,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#60,121,8,866127,1.38,68.55,North America,Mexico,Canis latrans,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#61,183,21,804681,9.22,48.38,North America,Mexico,Felis catus,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#62,77,10,858313,1.09,49.28,North America,Mexico,Panthera onca ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#63,42,5,745085,1.8,87.81,North America,Mexico,Bassariscus astutus,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#64,45,5,827029,1.41,47.71,North America,Mexico,Didelphis virginiana ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#65,46,8,718987,0.85,49.18,North America,Mexico,Felis catus,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#66,41,6,817527,1.17,49.37,North America,Mexico,Oryctolagus cuniculus ,Souza,1999,S,S,R,S,S,S,S,S,S
+24742_1#67,57,5,868269,1.18,82.73,North America,Mexico,Canis latrans ,Souza,1999,R,S,S,S,S,S,R,R,S
+24742_1#68,41,7,781588,0.53,49.38,North America,Mexico,Didelphis virginiana ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#69,54,8,858095,0.86,49.02,North America,Mexico,Felis catus,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#70,34,5,1038836,1.35,47.76,North America,Mexico,Didelphis virginiana,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#71,49,9,859736,1.83,78.36,North America,Mexico,Felis concolor ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#72,47,4,770861,29.8,1.33,South America,Mexico,Mus musculus ,Souza,1999,R,S,S,S,R,S,S,S,S
+24742_1#73,87,12,791020,14.42,45.35,North America,Mexico,Oryzomys sp. ,Souza,1999,R,S,S,S,R,S,S,S,S
+24742_1#74,120,8,803136,6.32,79.14,North America,Mexico,Felis concolor ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#75,178,14,761875,2.17,52.72,North America,Mexico,Mus musculus ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#76,7080,746,885368,8.39,44.76,North America,Mexico,Oryzomys sp. ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#77,27,4,734541,20.55,1.57,North America,Mexico,Carollia brevicauda ,Souza,1999,R,S,R,S,R,S,S,S,S
+24742_1#78,79,6,955502,0.13,85.92,NF,NF,Gallus gallus ,Souza,1999,R,S,S,S,S,S,S,S,R
+24742_1#79,85,12,775035,2.4,49.84,North America,Mexico,Liomys pictus ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#80,345,5,695922,7.89,6.28,North America,Mexico,Calothorax lucifer,Souza,1999,R,S,S,S,R,S,S,S,S
+24742_1#81,29,3,908637,20.19,3.2,North America,Mexico,Carollia brevicauda ,Souza,1999,R,S,R,S,R,S,S,S,S
+24742_1#82,37,4,746691,3.93,45.51,North America,Mexico,Dipodomys merriami ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#83,65,11,745641,0.82,56.89,North America,Mexico,Habromys sp.,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#84,86,11,769012,2.29,49.75,North America,Mexico,Liomys pictus ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#85,49,7,781867,0.89,57.75,NF,NF,Choeronycteris mexicana ,Souza,1999,S,S,S,S,S,S,S,S,S
+24742_1#86,44,4,756466,3.5,45.61,North America,Mexico,Dipodomys merriami ,Souza,1999,R,S,S,S,S,S,S,S,S
+24742_1#87,32,6,702360,27.69,1.19,NF,NF,Neotoma albigula ,Souza,1999,R,S,R,R,R,S,S,S,S
+24742_1#88,247,16,676814,0.64,56.17,NF,NF,Ovis aries ,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#100,24,2,1184430,19.58,1.32,North America,Mexico,Carollia brevicauda ,Souza,1999,R,S,R,S,R,S,S,S,S
+25964_1#101,226,34,1142746,1.53,33.78,North America,Mexico,Equus ferus,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#102,52,9,1166667,0.77,57.93,North America,Mexico,Habromys sp.,Souza,1999,S,S,S,S,S,S,S,R,S
+25964_1#103,814,10,1233584,1.82,57.42,North America,Mexico,Homo sapiens,Souza,1999,R,S,R,S,S,S,S,S,S
+25964_1#104,36,5,1001467,3.1,84.93,North America,Mexico,Alouatta palliata,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#108,76,9,1166153,3.69,48.87,North America,Mexico,Desmodus rotundus,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#112,27,4,1268896,2.58,85.61,North America,Mexico,Alouatta palliata,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#115,98,9,1097741,1.44,69.46,North America,Mexico,Canis latrans,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#116,40,4,1214339,0.81,60.25,North America,Mexico,Didelphis virginiana ,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#118,39,3,1153439,3.55,81.05,North America,Mexico,Henicorhina leucophrys,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#119,64,8,1281220,0.76,60.76,North America,Mexico,Homo sapiens,Souza,1999,R,S,S,S,S,S,S,S,R
+25964_1#120,83,6,1059630,7.53,83.05,North America,Costa Rica,Alouatta palliata,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#127,45,6,1192893,1.08,51.33,South America,Venezuela,Hydrochaeris hydrochaeris ,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#135,32,4,1190296,1.19,48.43,North America,Mexico,Lutra longicaudis,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#151,28,3,1343512,1.36,53.14,North America,Mexico,Lutra longicaudis ,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#152,39,4,1147747,1.94,85.72,North America,Mexico,Aquila chrysaetus,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#159,52,6,1053566,1.21,49.78,North America,Mexico,Lutra longicaudis ,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#160,198,8,1023648,1.99,54.14,North America,Mexico,Aratinga canicularis,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#167,22,3,1237335,29.35,1.15,North America,Mexico,Mus musculus,Souza,1999,R,S,R,R,R,S,S,S,S
+25964_1#176,70,8,1040535,0.87,60.93,NF,NF,Aratinga ocularis,Souza,1999,R,S,S,S,S,S,S,S,R
+25964_1#183,47,7,1036544,2.53,50.44,North America,Mexico,Nyctomys sp. ,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#184,45,5,1031166,0.89,88.37,NF,NF,Artibeus sp. ,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#188,161,21,1010153,2.56,32.01,North America,Mexico,Equus ferus,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#191,35,5,1293915,0.77,48.34,North America,Mexico,Odocoeileus virginianus ,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#192,91,10,1177217,4.16,50.2,North America,Mexico,Romerolagus diazi,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#193,20,3,1149283,1.69,88.64,North America,Mexico,Tursiops truncatus ,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#199,716,47,1123897,1.32,88.91,North America,Mexico,Ovis aries ,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#200,118,18,1163474,2.13,57.05,North America,Mexico,Sylvilagus sp.,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#207,57,7,1282251,1.27,50.48,NF,NF,Panthera onca,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#215,167,3,1219090,43.41,5.73,Africa,Africa,Papio cynocephalus,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#223,24,4,1190440,26.47,1.32,North America,Mexico,Passer domesticus,Souza,1999,R,S,R,S,R,S,S,S,S
+25964_1#231,58,8,1283853,3.82,49.91,North America,Mexico,Perognathus penicillatus,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#232,136,20,1155464,1.6,51.38,NF,NF,Tamandua mexicana,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#238,42,3,1253933,3.71,80.86,North America,Mexico,Atlapetes brunneinucha,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#239,38,5,1195628,3.57,47.37,North America,Mexico,Peromyscus sp. ,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#247,120,18,1263433,3.27,55.48,North America,Mexico,Procyon lotor ,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#263,48,8,1182586,2.62,49.63,North America,Mexico,Procyon lotor ,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#264,89,12,1170854,1.96,54.91,NF,NF,Tamandua mexicana,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#273,65,8,1082705,1.62,49.17,North America,Mexico,Urocyon cinereoargenteus,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#279,86,9,1056159,4.13,50.52,North America,Mexico,Romerolagus diazi ,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#280,23,4,1035548,1.93,87.46,North America,Mexico,Tursiops truncatus ,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#289,35,4,995242,1.68,88.7,North America,Mexico,Bassariscus astutus,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#329,41,7,987711,0.78,50.07,North America,Mexico,Canis familiaris,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#97,40,3,1064787,0.44,49.1,North America,Mexico,Bassariscus astutus,Souza,1999,R,S,S,S,S,S,S,S,S
+25964_1#98,35,4,1145200,1.61,88.82,NF,NF,Bassariscus astutus,Souza,1999,S,S,S,S,S,S,S,S,S
+25964_1#99,167,19,1186434,8.72,50.34,North America,Mexico,Canis familiaris,Souza,1999,R,S,S,S,S,S,S,S,S
+27970_1#122,44,4,989084,1.18,80.43,North America,Mexico,Canis latrans,Souza,1999,R,S,S,S,S,S,R,R,S
+27970_1#156,40,4,1084815,1.21,81.81,North America,Mexico,Canis latrans,Souza,1999,R,S,S,S,S,S,R,R,S
+27970_1#188,31,4,1013684,4.04,46.14,North America,Mexico,Dipodomys merriami ,Souza,1999,R,S,S,S,S,S,S,S,S
+27970_1#218,232,37,958011,3.29,30.34,NF,NF,Equus ferus,Souza,1999,R,S,S,S,S,S,S,S,S
+27970_1#250,40,6,1088702,2.4,48.6,North America,Mexico,Oryctolagus cuniculus ,Souza,1999,R,S,R,S,S,S,S,S,S
+27970_1#28,35,4,895820,1.86,88.38,North America,Mexico,Bassariscus astutus,Souza,1999,S,S,S,S,S,S,S,S,S
+27970_1#310,117,20,967855,1.84,53.87,NF,NF,Artibeus sp. ,Souza,1999,S,S,S,S,S,S,S,S,S
+27970_1#342,109,7,908162,3.31,78.76,North America,Mexico,Ateles geoffroyi,Souza,1999,R,S,S,S,S,S,S,S,S
+27970_1#362,24,4,994522,3.63,78.41,North America,Mexico,Panthera onca ,Souza,1999,R,S,S,S,S,S,S,S,S
+27970_1#374,66,10,1055350,2.31,50.03,North America,Mexico,Baiomys musculus,Souza,1999,R,S,S,S,S,S,S,S,S
+27970_1#90,22,4,893774,1.86,88.35,North America,Mexico,Bos taurus,Souza,1999,R,S,S,S,S,S,S,S,S
+27970_2#101,35,4,918043,3.67,72.54,North America,Mexico,Tadarida brasiliensis,Souza,1999,S,S,S,S,S,S,S,S,S
+27970_2#189,81,7,948772,3.93,82.52,North America,Mexico,Peromyscus megalops,Souza,1999,S,S,S,S,S,S,S,S,S
+27970_2#194,22,3,938618,29.39,0.6,NF,NF,Sus scrofa domesticus,Souza,1999,R,S,R,S,R,S,S,S,S
+27970_2#201,21,1,889286,20.55,0.37,North America,Mexico,Tadarida brasiliensis,Souza,1999,R,R,R,R,R,R,R,S,S
+27970_2#217,20,4,1112589,1.82,88.55,North America,Mexico,Tursiops truncatus ,Souza,1999,R,S,S,S,S,S,S,S,S
+27970_2#9,25,3,946886,3.74,78.54,North America,Mexico,Panthera onca,Souza,1999,R,S,S,S,S,S,S,S,S
