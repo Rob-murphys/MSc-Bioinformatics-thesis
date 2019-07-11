@@ -1,2 +1,2 @@
 # MSc-Bioinformatics-thesis
-Supplementary data and code for the MSc titled "Genomic  epidemiology of E. coli strains within wild hosts"
+Supplementary data and code for the MSc thesis titled "Genomic  epidemiology of E. coli strains within wild hosts"
