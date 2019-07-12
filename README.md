@@ -3,11 +3,11 @@ Supplementary data and code for the MSc thesis titled "Genomic  epidemiology of 
 
 **Contense**
 
-  +[Figures](https://github.com/Lamm-a/MSc-Bioinformatics-thesis#supplementary-figures)
+  1.[Figures](https://github.com/Lamm-a/MSc-Bioinformatics-thesis#supplementary-figures)
   
-  +[Methods](https://github.com/Lamm-a/MSc-Bioinformatics-thesis#supplementary-methods)
+  2.[Methods](https://github.com/Lamm-a/MSc-Bioinformatics-thesis#supplementary-methods)
   
-  +[Data](https://github.com/Lamm-a/MSc-Bioinformatics-thesis#data)
+  3.[Data](https://github.com/Lamm-a/MSc-Bioinformatics-thesis#data)
 
 Supplementary figures
 ------------------------------------------------------------------------------
