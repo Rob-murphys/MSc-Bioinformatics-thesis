@@ -27,4 +27,5 @@ The stats.sh shell tool from BBMap<sup>53</sup> was used to obtain the N50 and n
 Data
 ---------------
 [Virulence Finder data](https://github.com/Lamm-a/MSc-Bioinformatics-thesis/blob/master/ResFinder_binary_gene_frequency_perIsolate.csv)
+
 [ResFinder data](https://github.com/Lamm-a/MSc-Bioinformatics-thesis/blob/master/Vir_freq_grouped_PerIsolate_orderd_withHomo.csv)
