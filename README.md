@@ -4,4 +4,4 @@ Supplementary data and code for the MSc thesis titled "Genomic  epidemiology of 
 Bash code may very based on system, UoB uses a sbatch system.
 
 
-![Alt text](relative/supplementary figure 1.png?raw=true "Supplamentary figure 1")
+![alt text](https://github.com/Lamm-a/MSc-Bioinformatics-thesis/blob/master/supplementary%20figure%201.png)
