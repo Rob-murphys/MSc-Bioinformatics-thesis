@@ -8,6 +8,8 @@ Supplementary data and code for the MSc thesis titled "Genomic  epidemiology of 
   2.[Methods](https://github.com/Lamm-a/MSc-Bioinformatics-thesis#supplementary-methods)
   
   3.[Data](https://github.com/Lamm-a/MSc-Bioinformatics-thesis#data)
+  
+  4.[Scripts](https://github.com/Lamm-a/MSc-Bioinformatics-thesis/blob/master/README.md#scripts)
 
 Supplementary figures
 ------------------------------------------------------------------------------
