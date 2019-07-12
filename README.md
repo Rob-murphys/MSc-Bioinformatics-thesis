@@ -35,3 +35,9 @@ Data
 [Virulence Finder data](https://github.com/Lamm-a/MSc-Bioinformatics-thesis/blob/master/ResFinder_binary_gene_frequency_perIsolate.csv)
 
 [ResFinder data](https://github.com/Lamm-a/MSc-Bioinformatics-thesis/blob/master/Vir_freq_grouped_PerIsolate_orderd_withHomo.csv)
+
+Scripts
+-------
+[Bash scripts](https://github.com/Lamm-a/MSc-Bioinformatics-thesis/tree/master/Bash_scripts)- Functionality of these may depend on local system.
+
+[R scripts](https://github.com/Lamm-a/MSc-Bioinformatics-thesis/tree/master/R_scripts)
