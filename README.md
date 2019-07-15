@@ -1,7 +1,7 @@
 # MSc-Bioinformatics-thesis
 Supplementary data and code for the MSc thesis titled "Genomic  epidemiology of E. coli strains within wild hosts".
 
-**Contense**
+**Contents**
 
   1.[Figures](https://github.com/Lamm-a/MSc-Bioinformatics-thesis#supplementary-figures)
   
